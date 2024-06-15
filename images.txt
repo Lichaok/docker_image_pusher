@@ -10,4 +10,3 @@ fedora
 mysql
 redis
 docker
-docker-compose
