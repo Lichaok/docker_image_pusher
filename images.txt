@@ -10,3 +10,5 @@ fedaro
 mysql
 redis
 minio
+docker
+docker-compose
