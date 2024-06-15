@@ -9,6 +9,5 @@ ubuntu
 fedora
 mysql
 redis
-minio
 docker
 docker-compose
