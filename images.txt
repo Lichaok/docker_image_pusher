@@ -10,3 +10,4 @@ fedora
 mysql
 redis
 docker
+ollama
